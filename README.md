@@ -20,7 +20,7 @@ Da ich einen Tag für 162 verwnede, muss es eher ein einfacheres sein das ich ab
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Es ist interessant zusehen, wie ich mich schon entwickelt habe, früher konnte ich mir nicht mal vorstellen irgendetwas zu programmieren. Doch als ich heute gearbeitet habe und gesehen habe, was ich kann, war ich selbst überrascht, denn ich kann das schaffen, was ich mir programmiertechnisch vorgegeben habe. Nun muss ich die Datenmodelle anschauen, um diese zu „meistern“. Ich freue mich dieser Challenge zu stellen, auch wenn ich es vielleicht nicht fertigkriege.
 
 ## 16.1 und 23.1.2024
 - [ ] Das Konzeptionelle Modelle anschauen und selber eins machen.
@@ -31,8 +31,8 @@ Da ich einen Tag für 162 verwnede, muss es eher ein einfacheres sein das ich ab
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
-| ... |     |     |     |     |
+| 1   |   Tics setzen  |   tics setzt  |    tics bleiben  |     |
+| ... |   Ein Tic gesetzt  |   wenn X setzt  | O am zug    |     |
 | 4   |     |     |     |     |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
